@@ -1,0 +1,31 @@
+Begin
+int foo= 3$
+float bar=0.2$
+alpha b='a'$
+void func name ( int a,int b)$
+
+show 'Hi I am Aditya Sinha'$
+
+func name ( int a,int e)
+$_
+	int temp=2$
+_$
+
+test (foo>2)	
+$_	
+	foo=2*3+bar $
+	repeat (a=2$ a<4$)
+	$_ 	
+		int br=3$
+		repeat (b=2$ b<4$)
+		$_ 
+			br=br+1$
+			func name(12,3)$
+		_$ 
+	_$ 
+_$
+or 	
+$_	
+	bar=2+foo$ 
+_$
+End
